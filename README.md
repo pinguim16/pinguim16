@@ -6,7 +6,7 @@ Formado em Sistemas de Informação pela Pontifícia Universidade Católica de M
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pinguim16&style=flat-square&color=0088cc)
 
-
+[![](https://gitwar.herokuapp.com/badge?username=pinguim16&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <!--
 **pinguim16/pinguim16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
