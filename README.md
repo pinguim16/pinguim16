@@ -51,6 +51,9 @@ Formado em Sistemas de Informação pela Pontifícia Universidade Católica de M
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pinguim16&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=pinguim16&hide=php&theme=tokyonight" />
 </a>
+ <a>
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pinguim16&hide_border=true" />
+ </a>
 </div>
 
 
