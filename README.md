@@ -1,6 +1,7 @@
 ### Olá e seja bem-vindo
 
-Atualmente estou atuando como desenvolvedor senior e estou criando mini-tutoriais aqui no github para ajudar a reforçar o meu conhecimento e ao mesmo tempo ajudar a comunidade com o que posso de maneira simples.
+Formado em Sistemas de Informação pela Pontifícia Universidade Católica de Minas Gerais e pós graduado pela IGTI em MBA em Projeto de Aplicações para Dispositivos Móveis, apaixonado por tecnologia que está sempre disposto a aprender mais 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro orientar e ser mentorar alguém que precise de alguma ajuda 👨🏻‍💻. Atualmente estou trabalhando com microservices e stream🕸️🤓. E no meu dia a dia estou produzindo pequenos tutoriais para reforçar meu aprendizado e contruibuir com a comunidade.
+
 
 
 
