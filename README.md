@@ -1,4 +1,4 @@
-### Olá 👋 e seja bem-vindo !!!
+# Olá 👋 e seja bem-vindo !!!
 
 <img align="center" alt="" src="https://github.com/pinguim16/pinguim16/blob/main/coder.gif?raw=true" />
 
@@ -11,6 +11,7 @@ Formado em Sistemas de Informação pela Pontifícia Universidade Católica de M
 [![](https://gitwar.herokuapp.com/badge?username=pinguim16&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 
+##GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinguim16&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinguim16&theme=tokyonight)
