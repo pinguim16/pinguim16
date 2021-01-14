@@ -5,6 +5,8 @@
 Formado em Sistemas de Informação pela Pontifícia Universidade Católica de Minas Gerais e pós graduado pela IGTI em MBA em Projeto de Aplicações para Dispositivos Móveis, apaixonado por tecnologia que está sempre disposto a aprender mais 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro orientar e ser mentorar alguém que precise de alguma ajuda 👨🏻‍💻. Atualmente estou trabalhando com microservices e stream🕸️🤓. E no meu dia a dia estou produzindo pequenos tutoriais para reforçar meu aprendizado e contruibuir com a comunidade.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pinguim16&style=flat-square&color=0088cc)
+[![Github](https://img.shields.io/github/followers/pinguim16?label=Follow&style=social)](https://github.com/pinguim16)
+
 
 [![](https://gitwar.herokuapp.com/badge?username=pinguim16&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
