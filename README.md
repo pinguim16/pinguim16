@@ -8,6 +8,9 @@ Formado em Sistemas de Informação pela Pontifícia Universidade Católica de M
 
 [![](https://gitwar.herokuapp.com/badge?username=pinguim16&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinguim16&show_icons=true&theme=tokyonight)
+
 <!--
 **pinguim16/pinguim16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
