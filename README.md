@@ -13,9 +13,11 @@ Formado em Sistemas de Informação pela Pontifícia Universidade Católica de M
 
 ## :trophy: My Github Stats:
 
+<div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pinguim16&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinguim16&theme=tokyonight)
+</div>
 
 
 
