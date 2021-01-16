@@ -2,7 +2,7 @@
 
 <img align="center" alt="" src="https://github.com/pinguim16/pinguim16/blob/main/coder.gif?raw=true" />
 
-Formado em Sistemas de Informação pela Pontifícia Universidade Católica de Minas Gerais e pós graduado pela IGTI em MBA em Projeto de Aplicações para Dispositivos Móveis, apaixonado por tecnologia que está sempre disposto a aprender mais 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, também adoro orientar e ser mentorar alguém que precise de alguma ajuda 👨🏻‍💻. Atualmente estou trabalhando com microservices e stream🕸️🤓. E no meu dia a dia estou produzindo pequenos tutoriais para reforçar meu aprendizado e contruibuir com a comunidade.
+Formado em Sistemas de Informação pela Pontifícia Universidade Católica de Minas Gerais e pós graduado pela IGTI em MBA em Projeto de Aplicações para Dispositivos Móveis. Apaixonado por tecnologia e sempre disposto a aprender mais 💡. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨. Além disso, gosto muito de ter a oportunidade de orientar e mentorear quem precise de alguma ajuda 👨🏻‍💻. Atualmente estou trabalhando com microservices e stream de dados🕸️🤓. No dia a dia estou produzindo pequenos tutoriais para reforçar meu aprendizado e contruibuir com a comunidade.
 
 ## 🔭 Contato:  
 
